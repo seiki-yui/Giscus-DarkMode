@@ -18,7 +18,7 @@ data-theme="xxxxxx"
 ```
 替换为 
 ``` 
-data-theme=https://gcore.jsdelivr.net/gh/seiki-yui/Giscus-DarkMode/Giscus.seiki.css"
+data-theme="https://gcore.jsdelivr.net/gh/seiki-yui/Giscus-DarkMode/Giscus.seiki.css"
 ```
 即可。
 
